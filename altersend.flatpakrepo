@@ -1,6 +1,5 @@
 [Flatpak Repo]
 Title=AlterSend
-# TODO: revert before upstream PR
 Url=https://riftrogue.github.io/altersend-flatpak/
 Homepage=https://altersend.com/
 Comment=AlterSend Official Flatpak Repository
